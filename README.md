@@ -9,6 +9,6 @@ python locate --help
 python locate --d c:/ --f notepad.exe
 ```
 
-```
-### Sourav Bishai
+### ```
+ Sourav Bishai
 ```
