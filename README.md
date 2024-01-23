@@ -8,7 +8,3 @@ python locate --help
 ```bash
 python locate --d c:/ --f notepad.exe
 ```
-
-### ```
- Sourav Bishai
-```
